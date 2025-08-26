@@ -1,6 +1,6 @@
 # TALLER-DICCIONARIOS
 
 
-nicolas jimenez
-nicolas sanchez
-valentina montenegro
+-nicolas jimenez
+-nicolas sanchez
+-valentina montenegro
